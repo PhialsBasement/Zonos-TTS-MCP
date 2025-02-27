@@ -3,6 +3,8 @@
 
 A Model Context Protocol integration for Zonos TTS, allowing Claude to generate speech directly.
 
+<a href="https://glama.ai/mcp/servers/clybepate4"><img width="380" height="200" src="https://glama.ai/mcp/servers/clybepate4/badge" alt="Zonos TTS Server MCP server" /></a>
+
 ## Setup
 
 ### Installing via Smithery
