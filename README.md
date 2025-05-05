@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/phialsbasement-zonos-tts-mcp-badge.png)](https://mseep.ai/app/phialsbasement-zonos-tts-mcp)
+
 # Zonos MCP Integration
 [![smithery badge](https://smithery.ai/badge/@PhialsBasement/zonos-tts-mcp)](https://smithery.ai/server/@PhialsBasement/zonos-tts-mcp)
 
